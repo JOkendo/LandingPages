@@ -1,2 +1,2 @@
 # LandingPages
-Includes landing pages for various sites for practise
+Includes landing page for various sites for practise.
